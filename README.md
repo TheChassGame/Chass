@@ -6,5 +6,4 @@ The website is organized into three files:
 - `styles.css` contains the layout and visual styles.
 - `game.js` contains the game rules, engine, and interface behavior.
 
-All code by codex
-All ideas / logic by me
+
