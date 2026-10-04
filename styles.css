@@ -16,3 +16,6 @@
 .review-eval{display:flex;align-items:center;gap:9px;margin:8px 0 10px;font:10px Consolas,monospace;color:var(--muted)}.review-eval[hidden]{display:none}.review-eval-bar{height:12px;flex:1;background:#252b27;border:1px solid #252b27;border-radius:3px;overflow:hidden}.review-eval-white{height:100%;width:50%;background:#eeeae1;transition:width .2s ease}.review-eval span{min-width:100px;text-align:right}
 
 .save-actions{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:10px}
+
+.review-board-button{margin:8px 0 7px}
+
