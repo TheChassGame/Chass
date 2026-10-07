@@ -19,3 +19,5 @@
 
 .review-board-button{margin:8px 0 7px}
 
+
+.review-board-actions{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:8px 0 7px}.review-board-button{width:100%;margin:0}.review-line-controls{border:1px solid var(--line);border-radius:8px;background:#f7f6f1;padding:9px;margin:0 0 10px}.review-line-controls[hidden]{display:none}.review-line-description{font-size:11px;line-height:1.45;color:var(--ink);margin-bottom:8px}.review-line-navigation{display:flex;align-items:center;justify-content:space-between;gap:6px}.review-line-navigation .btn{padding:6px 8px;font-size:11px}.review-line-navigation span{font:10px Consolas,monospace;color:var(--muted);text-align:center}.review-line-sequence{font:10px/1.55 Consolas,monospace;color:var(--green);overflow-wrap:anywhere;margin-top:8px}
